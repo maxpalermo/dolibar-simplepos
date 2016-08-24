@@ -1,0 +1,81 @@
+# <one line to give the program's name and a brief idea of what it does.>
+# Copyright (C) <year>  <name of author>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleXXXName'
+# (where XXX is value of numeric property 'numero' of module)
+Module10000Name = SimplePOS
+# Module description 'ModuleXXXDesc'
+# (where XXX is value of numeric property 'numero' of module)
+Module10000Desc = Gestione semplificata di un modulo di vendita alla cassa.
+
+#
+# Admin page
+#
+POS_TITLE_ADMIN_PAGE = Impostazioni parametri POS
+MyModuleSetup = My module setup
+Settings = Settings
+MyModuleSetupPage = My module setup page
+
+#
+# About page
+#
+PAGE_ABOUT = Informazioni
+About = About
+MyModuleAbout = About my module
+MyModuleAboutPage = My module about page
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# SETTINGS
+#
+
+POS_TITLE_ADMIN_PAGE    = Impostazioni POS
+POS_PARAMETERS_SERIAL   = Parametri connessione seriale 
+POS_COM_PORT            = Porta COM:
+POS_BAUD_RATE           = Baud rate:
+POS_BIT_DATA            = Bit di dati:
+POS_PARITY              = Parità:
+POS_BIT_STOP            = Bit di stop:
+POS_PARAMETERS_GENERAL  = Parametri generali
+POS_CUSTOMER            = Cliente:
+POS_WAREHOUSE           = Magazzino:
+POS_PRICELIST           = Listino prezzi:
+POS_PARAMETERS_REP      = Assegnazione reparti
+REP_1                   = Rep. 1 ->IVA:
+REP_2                   = Rep. 2 ->IVA:
+REP_3                   = Rep. 3 ->IVA:
+REP_4                   = Rep. 4 ->IVA:
+REP_5                   = Rep. 5 ->IVA:
+REP_6                   = Rep. 6 ->IVA:
+REP_7                   = Rep. 7 ->IVA:
+REP_8                   = Rep. 8 ->IVA:
+REP_9                   = Rep. 9 ->IVA:
+REP_10                  = Rep. 10 ->IVA:
+REP_11                  = Rep. 11 ->IVA:
+REP_12                  = Rep. 12 ->IVA:
+REP_13                  = Rep. 13 ->IVA:
+REP_14                  = Rep. 14 ->IVA:
+REP_15                  = Rep. 15 ->IVA:
+REP_16                  = Rep. 16 ->IVA:
+
