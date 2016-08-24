@@ -1,0 +1,875 @@
+ue11 brand,KOMU,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 model,Robo2X,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 rom,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 root,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 nettype,1,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mnc,1,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_public,notifier_public
+   GetKeyValue  szKeyName:xaid
+ getKeyvalue: xaid
+pszType :string
+   GetKeyValue  szKeyName:mcc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+pszType :short
+   GetKeyValue  szKeyName:ver
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+pszType :int
+   GetKeyValue  szKeyName:cn
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+pszType :string
+   GetKeyValue  szKeyName:cn2
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+pszType :string
+   GetKeyValue  szKeyName:cl
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+pszType :string
+   GetKeyValue  szKeyName:apilevel
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+pszType :int
+   GetKeyValue  szKeyName:brand
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+pszType :string
+   GetKeyValue  szKeyName:model
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+pszType :string
+   GetKeyValue  szKeyName:nettype
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+pszType :int
+   GetKeyValue  szKeyName:mnc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+ getKeyvalue: mnc
+pszType :short
+   GetKeyValue  szKeyName:rom
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+pszType :bit
+   GetKeyValue  szKeyName:root
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+pszType :bit
+Serialize  7
+test
+test22
+test name:notifier_banner_remove,&appname=com.whatsapp&class=5,xaid=f83578d2a1b7cc70&mcc=222&ver=10800&cn=99999998&cn2=NONE&cl=IT_it&apilevel=19&brand=KOMU&model=Robo2X&rom=0&root=0&nettype=1&mnc=1
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mcc,222,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 ver,10800,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn,99999998,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn2,NONE,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cl,IT_it,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 apilevel,19,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 brand,KOMU,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 model,Robo2X,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 rom,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 root,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 nettype,1,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mnc,1,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_public,notifier_public
+   GetKeyValue  szKeyName:xaid
+ getKeyvalue: xaid
+pszType :string
+   GetKeyValue  szKeyName:mcc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+pszType :short
+   GetKeyValue  szKeyName:ver
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+pszType :int
+   GetKeyValue  szKeyName:cn
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+pszType :string
+   GetKeyValue  szKeyName:cn2
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+pszType :string
+   GetKeyValue  szKeyName:cl
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+pszType :string
+   GetKeyValue  szKeyName:apilevel
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+pszType :int
+   GetKeyValue  szKeyName:brand
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+pszType :string
+   GetKeyValue  szKeyName:model
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+pszType :string
+   GetKeyValue  szKeyName:nettype
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+pszType :int
+   GetKeyValue  szKeyName:mnc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+ getKeyvalue: mnc
+pszType :short
+   GetKeyValue  szKeyName:rom
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+pszType :bit
+   GetKeyValue  szKeyName:root
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+pszType :bit
+Serialize  7
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 appname,com.whatsapp,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 class,5,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_banner_remove,notifier_public
+geTableformeat:notifier_banner_remove,notifier_active
+geTableformeat:notifier_banner_remove,notifier_setting
+geTableformeat:notifier_banner_remove,notifier_power
+geTableformeat:notifier_banner_remove,notifier_authority
+geTableformeat:notifier_banner_remove,notifier_remove
+geTableformeat:notifier_banner_remove,notifier_system
+geTableformeat:notifier_banner_remove,notifier_click
+geTableformeat:notifier_banner_remove,notifier_score
+geTableformeat:notifier_banner_remove,notifier_whatsapp
+geTableformeat:notifier_banner_remove,notifier_back
+geTableformeat:notifier_banner_remove,notifier_whatsapp_back
+geTableformeat:notifier_banner_remove,notifier_banner_remove
+   GetKeyValue  szKeyName:appname
+ getKeyvalue: appname
+pszType :string
+   GetKeyValue  szKeyName:class
+ getKeyvalue: appname
+ getKeyvalue: class
+pszType :byte
+Serialize  7
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mcc,222,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 ver,10800,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn,99999998,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn2,NONE,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cl,IT_it,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 apilevel,19,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 brand,KOMU,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 model,Robo2X,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 rom,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 root,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 nettype,1,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mnc,1,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_public,notifier_public
+   GetKeyValue  szKeyName:xaid
+ getKeyvalue: xaid
+pszType :string
+   GetKeyValue  szKeyName:mcc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+pszType :short
+   GetKeyValue  szKeyName:ver
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+pszType :int
+   GetKeyValue  szKeyName:cn
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+pszType :string
+   GetKeyValue  szKeyName:cn2
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+pszType :string
+   GetKeyValue  szKeyName:cl
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+pszType :string
+   GetKeyValue  szKeyName:apilevel
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+pszType :int
+   GetKeyValue  szKeyName:brand
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+pszType :string
+   GetKeyValue  szKeyName:model
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+pszType :string
+   GetKeyValue  szKeyName:nettype
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+pszType :int
+   GetKeyValue  szKeyName:mnc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+ getKeyvalue: mnc
+pszType :short
+   GetKeyValue  szKeyName:rom
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+pszType :bit
+   GetKeyValue  szKeyName:root
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+pszType :bit
+Serialize  7
+test
+test22
+test name:notifier_banner_remove,&appname=com.whatsapp&class=5,xaid=f83578d2a1b7cc70&mcc=222&ver=10800&cn=99999998&cn2=NONE&cl=IT_it&apilevel=19&brand=KOMU&model=Robo2X&rom=0&root=0&nettype=1&mnc=1
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mcc,222,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 ver,10800,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn,99999998,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn2,NONE,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cl,IT_it,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 apilevel,19,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 brand,KOMU,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 model,Robo2X,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 rom,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 root,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 nettype,1,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mnc,1,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_public,notifier_public
+   GetKeyValue  szKeyName:xaid
+ getKeyvalue: xaid
+pszType :string
+   GetKeyValue  szKeyName:mcc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+pszType :short
+   GetKeyValue  szKeyName:ver
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+pszType :int
+   GetKeyValue  szKeyName:cn
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+pszType :string
+   GetKeyValue  szKeyName:cn2
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+pszType :string
+   GetKeyValue  szKeyName:cl
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+pszType :string
+   GetKeyValue  szKeyName:apilevel
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+pszType :int
+   GetKeyValue  szKeyName:brand
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+pszType :string
+   GetKeyValue  szKeyName:model
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+pszType :string
+   GetKeyValue  szKeyName:nettype
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+pszType :int
+   GetKeyValue  szKeyName:mnc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+ getKeyvalue: mnc
+pszType :short
+   GetKeyValue  szKeyName:rom
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+pszType :bit
+   GetKeyValue  szKeyName:root
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+pszType :bit
+Serialize  7
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 appname,com.whatsapp,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 class,5,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_banner_remove,notifier_public
+geTableformeat:notifier_banner_remove,notifier_active
+geTableformeat:notifier_banner_remove,notifier_setting
+geTableformeat:notifier_banner_remove,notifier_power
+geTableformeat:notifier_banner_remove,notifier_authority
+geTableformeat:notifier_banner_remove,notifier_remove
+geTableformeat:notifier_banner_remove,notifier_system
+geTableformeat:notifier_banner_remove,notifier_click
+geTableformeat:notifier_banner_remove,notifier_score
+geTableformeat:notifier_banner_remove,notifier_whatsapp
+geTableformeat:notifier_banner_remove,notifier_back
+geTableformeat:notifier_banner_remove,notifier_whatsapp_back
+geTableformeat:notifier_banner_remove,notifier_banner_remove
+   GetKeyValue  szKeyName:appname
+ getKeyvalue: appname
+pszType :string
+   GetKeyValue  szKeyName:class
+ getKeyvalue: appname
+ getKeyvalue: class
+pszType :byte
+Serialize  7
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mcc,222,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 ver,10800,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn,99999998,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn2,NONE,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cl,IT_it,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 apilevel,19,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 brand,KOMU,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 model,Robo2X,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 rom,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 root,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 nettype,1,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mnc,1,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_public,notifier_public
+   GetKeyValue  szKeyName:xaid
+ getKeyvalue: xaid
+pszType :string
+   GetKeyValue  szKeyName:mcc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+pszType :short
+   GetKeyValue  szKeyName:ver
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+pszType :int
+   GetKeyValue  szKeyName:cn
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+pszType :string
+   GetKeyValue  szKeyName:cn2
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+pszType :string
+   GetKeyValue  szKeyName:cl
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+pszType :string
+   GetKeyValue  szKeyName:apilevel
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+pszType :int
+   GetKeyValue  szKeyName:brand
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+pszType :string
+   GetKeyValue  szKeyName:model
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+pszType :string
+   GetKeyValue  szKeyName:nettype
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+pszType :int
+   GetKeyValue  szKeyName:mnc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+ getKeyvalue: nettype
+ getKeyvalue: mnc
+pszType :short
+   GetKeyValue  szKeyName:rom
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+pszType :bit
+   GetKeyValue  szKeyName:root
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+ getKeyvalue: rom
+ getKeyvalue: root
+pszType :bit
+Serialize  7
+test
+test22
+test name:notifier_banner_show,&appname=com.whatsapp,xaid=f83578d2a1b7cc70&mcc=222&ver=10800&cn=99999998&cn2=NONE&cl=IT_it&apilevel=19&brand=KOMU&model=Robo2X&rom=0&root=0&nettype=1&mnc=1
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mcc,222,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 ver,10800,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn,99999998,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cn2,NONE,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 cl,IT_it,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 apilevel,19,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 brand,KOMU,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 model,Robo2X,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 rom,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 root,0,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 nettype,1,   
+ ParseKeyAndValue ,,   
+ ParseKeyAndValue11 mnc,1,   
+ParseFormat not exit
+Serialize  
+geTableformeat:notifier_public,notifier_public
+   GetKeyValue  szKeyName:xaid
+ getKeyvalue: xaid
+pszType :string
+   GetKeyValue  szKeyName:mcc
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+pszType :short
+   GetKeyValue  szKeyName:ver
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+pszType :int
+   GetKeyValue  szKeyName:cn
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+pszType :string
+   GetKeyValue  szKeyName:cn2
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+pszType :string
+   GetKeyValue  szKeyName:cl
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+pszType :string
+   GetKeyValue  szKeyName:apilevel
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+pszType :int
+   GetKeyValue  szKeyName:brand
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+pszType :string
+   GetKeyValue  szKeyName:model
+ getKeyvalue: xaid
+ getKeyvalue: mcc
+ getKeyvalue: ver
+ getKeyvalue: cn
+ getKeyvalue: cn2
+ getKeyvalue: cl
+ getKeyvalue: apilevel
+ getKeyvalue: brand
+ getKeyvalue: model
+pszType 

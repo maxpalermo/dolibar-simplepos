@@ -1,0 +1,47 @@
+<?php
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+$action=filter_input(INPUT_POST,"action");
+
+include dirname(__FILE__) . DIRECTORY_SEPARATOR . "PhpSerial.php";
+
+// Let's start the class
+$serial = new PhpSerial();
+
+// First we must specify the device. This works on both linux and windows (if
+// your linux serial device is /dev/ttyS0 for COM1, etc)
+//$serial->deviceSet("COM1");
+$serial->deviceSet("/dev/ttyUSB0");
+
+// We can change the baud rate, parity, length, stop bits, flow control
+$serial->confBaudRate(19200);
+$serial->confParity("none");
+$serial->confCharacterLength(8);
+$serial->confStopBits(1);
+$serial->confFlowControl("none");
+
+// Then we need to open it
+$serial->deviceOpen();
+
+// To write into
+switch($action)
+{
+    case "readrep":
+        $serial->sendMessage("2f");
+        break;
+    case "readday":
+        $serial->sendMessage("1f");
+        break;
+    case "zerorep":
+        $serial->sendMessage("2F");
+        break;
+    case "closeday":
+        $serial->sendMessage("1F");
+        break;
+}
+
+
+
+$serial->deviceClose();
