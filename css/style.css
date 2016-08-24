@@ -1,231 +1,239 @@
-ize  7
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 mcc,222,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 ver,10708,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cn,99999998,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cn2,NONE,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cl,IT_it,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 apilevel,19,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 brand,KOMU,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 model,Robo2X,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 rom,0,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 root,0,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 nettype,2,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 mnc,1,   
-ParseFormat not exit
-Serialize  
-geTableformeat:notifier_public,notifier_public
-   GetKeyValue  szKeyName:xaid
- getKeyvalue: xaid
-pszType :string
-   GetKeyValue  szKeyName:mcc
- getKeyvalue: xaid
- getKeyvalue: mcc
-pszType :short
-   GetKeyValue  szKeyName:ver
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
-pszType :int
-   GetKeyValue  szKeyName:cn
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
-pszType :string
-   GetKeyValue  szKeyName:cn2
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
-pszType :string
-   GetKeyValue  szKeyName:cl
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
-pszType :string
-   GetKeyValue  szKeyName:apilevel
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
-pszType :int
-   GetKeyValue  szKeyName:brand
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
- getKeyvalue: brand
-pszType :string
-   GetKeyValue  szKeyName:model
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
- getKeyvalue: brand
- getKeyvalue: model
-pszType :string
-   GetKeyValue  szKeyName:nettype
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
- getKeyvalue: brand
- getKeyvalue: model
- getKeyvalue: rom
- getKeyvalue: root
- getKeyvalue: nettype
-pszType :int
-   GetKeyValue  szKeyName:mnc
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
- getKeyvalue: brand
- getKeyvalue: model
- getKeyvalue: rom
- getKeyvalue: root
- getKeyvalue: nettype
- getKeyvalue: mnc
-pszType :short
-   GetKeyValue  szKeyName:rom
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
- getKeyvalue: brand
- getKeyvalue: model
- getKeyvalue: rom
-pszType :bit
-   GetKeyValue  szKeyName:root
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
- getKeyvalue: brand
- getKeyvalue: model
- getKeyvalue: rom
- getKeyvalue: root
-pszType :bit
-Serialize  7
-test
-test22
-test name:notifier_remove,&class=2&appname=android,xaid=f83578d2a1b7cc70&mcc=222&ver=10708&cn=99999998&cn2=NONE&cl=IT_it&apilevel=19&brand=KOMU&model=Robo2X&rom=0&root=0&nettype=2&mnc=1
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 mcc,222,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 ver,10708,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cn,99999998,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cn2,NONE,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cl,IT_it,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 apilevel,19,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 brand,KOMU,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 model,Robo2X,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 rom,0,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 root,0,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 nettype,2,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 mnc,1,   
-ParseFormat not exit
-Serialize  
-geTableformeat:notifier_public,notifier_public
-   GetKeyValue  szKeyName:xaid
- getKeyvalue: xaid
-pszType :string
-   GetKeyValue  szKeyName:mcc
- getKeyvalue: xaid
- getKeyvalue: mcc
-pszType :short
-   GetKeyValue  szKeyName:ver
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
-pszType :int
-   GetKeyValue  szKeyName:cn
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
-pszType :string
-   GetKeyValue  szKeyName:cn2
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
-pszType :string
-   GetKeyValue  szKeyName:cl
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
-pszType :string
-   GetKeyValue  szKeyName:apilevel
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
-pszType :int
-   GetKeyValue  szKeyName:brand
- getKeyvalue: xaid
- getKeyvalue: mcc
- getKeyvalue: ver
- getKeyvalue: cn
- getKeyvalue: cn2
- getKeyvalue: cl
- getKeyvalue: apilevel
- getKe
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28-nov-2015, 18.31.42
+    Author     : Massimiliano Palermo <maxx.palermo@gmail.com>
+*/
+
+div.mainmenu.simplePOS {
+	background-image: url('../img/simplePOS.png');
+}
+
+
+    .ui-autocomplete
+    {
+        padding: 5px;
+        width: 500px;
+        display: inline-block;
+        border-bottom-left-radius  : 5px;
+        border-bottom-right-radius : 5px;
+        padding-right: 20px;
+        background-repeat: no-repeat;
+        background-position: right;
+        max-height: 150px;
+        overflow-y: auto;
+        /* prevent horizontal scrollbar */
+        overflow-x: hidden;
+    }
+    
+    .ui-autocomplete-loading
+    {
+        background-image: url('../img/icon_loading.gif');
+    }
+    
+    .yellow
+    {
+        background-color: #ff9933;
+        border-color: #ee8822;
+        
+    }
+    .blue
+    {
+        background-color: #6699ff;
+        border-color: #5588ee;
+    }
+    .green
+    {
+        background-color: #00cc33;
+        border-color: #008800;
+    }
+    .icon-arrow-down
+    {
+        background-image: url('../img/icon_arrow_down.png');
+    }
+    .icon-search
+    {
+        background-image: url('../img/icon_search.png');
+    }
+    .icon-customer
+    {
+        background-image: url('../img/icon_customer.png');
+    }
+    .icon-warehouse
+    {
+        background-image: url('../img/icon_warehouse.png');
+    }
+    .icon-pricelevel
+    {
+        background-image: url('../img/icon_dollar.png');
+    }
+    .icon-sum
+    {
+        background-image: url('../img/icon_sum.png');
+    }
+    .icon-cost
+    {
+        background-image: url('../img/icon_cost.png');
+    }
+    .icon-item
+    {
+        background-image: url('../img/icon_item.png');
+    }
+    .icon-product-price
+    {
+        background-image: url('../img/icon_product_price.png');
+    }
+    .icon-product-euro
+    {
+        background-image: url('../img/icon_product_price.png');
+    }
+    .icon-product-tva
+    {
+        background-image: url('../img/icon_product_tva.png');
+    }
+    .border-error
+    {
+        -webkit-box-shadow: 0 0 15px 1px #FF0D0D;
+        box-shadow: 0 0 15px 1px #FF0D0D;
+    }
+    
+    .rich-button
+    {
+        overflow: hidden;
+        display: inline-block;
+        border-bottom: 10px;
+    }
+    
+    .rich-button label
+    {
+        padding: 5px;
+        height: 16px;
+        width: 20px;
+        display: block;
+        float: left;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: 1px solid #999999;
+        top: 1px;
+    }
+    
+    .rich-button input[type="text"], .ui-autocomplete-input
+    {
+        padding: 5px;
+        height: 16px;
+        width: 200px;
+        display: block;
+        float: left;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        background-color: white;
+        border: 1px solid #999999;
+    }
+    
+    .rich-button .drop-down
+    {
+        display: block;
+        float: left;
+        position: fixed;
+        margin-left: 220px;
+        margin-top: 4px;
+        cursor: pointer;
+    }
+    
+    .button-left
+    {
+        width:90%;
+        margin-top: 3px;
+        margin-bottom: 3px;
+        text-align: center;
+        
+    }
+    
+    .button-left:hover
+    {
+        color: #c77405;
+    }
+    
+    #pay-dialog
+    {
+        display: block;
+        padding: 10px;
+        border: none;
+    }
+    
+    #pay-dialog >div
+    {
+        border: 1px solid #ddddaa;
+        box-shadow: 2px 2px 6px #ddddaa;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        padding: 5px;
+    }
+    
+    #pay-dialog > div > h3
+    {
+        text-align: center;
+        font-size: 2em;
+        font-weight: bolder;
+        font-stretch: ultra-expanded;
+        text-shadow: 1px 1px 2px #ddddaa;
+        margin-bottom: 2em;
+    }
+    
+    #pay-dialog > div > input[type=radio]
+    {
+        margin-left: 10px;
+        margin-right: 10px;
+        cursor: pointer;
+    }
+    
+    #pay-dialog  label
+    {
+        font-size: 1.2em;
+        font-weight: lighter;
+        text-shadow: 1px 1px 1px #ddddaa;
+        margin-top: 10px;
+        color: blue;
+        display: inline-block;
+    }
+    
+    #pay-dialog >div >div
+    {
+        margin-left: 10px;
+        width: 30%;
+        display: inline-block;
+    }
+    
+    #pay-dialog >div >div:first-child
+    {
+        margin-left: 10px;
+        width: 30%;
+        display: inline-block;
+    }
+    
+    
+    #pay-dialog >div:nth-child(3)
+    {
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    
+    #pay-dialog >div:nth-child(3) > input[type=button]
+    {
+        text-align: center;
+        padding: 10px;
+        font-size: 1.5em;
+        font-weight: bolder;
+        color: blue;
+        display: block;
+        margin: 0 auto;
+    }

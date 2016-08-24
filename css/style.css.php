@@ -1,27 +1,24 @@
-eTableformeat:notifier_banner_show,notifier_score
-geTableformeat:notifier_banner_show,notifier_whatsapp
-geTableformeat:notifier_banner_show,notifier_back
-geTableformeat:notifier_banner_show,notifier_whatsapp_back
-geTableformeat:notifier_banner_show,notifier_banner_remove
-geTableformeat:notifier_banner_show,notifier_banner_show
-   GetKeyValue  szKeyName:appname
- getKeyvalue: appname
-pszType :string
-Serialize  7
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 xaid,f83578d2a1b7cc70,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 mcc,222,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 ver,10800,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cn,99999998,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cn2,NONE,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 cl,IT_it,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 apilevel,19,   
- ParseKeyAndValue ,,   
- ParseKeyAndValue11 brand,KOMU,   
- ParseKeyAndValu
+<?php
+/* <one line to give the program's name and a brief idea of what it does.>
+ * Copyright (C) <year>  <name of author>
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/**
+ *	\file		css/mycss.css.php
+ *	\ingroup	mymodule
+ *	\brief		This file is an example css file
+ *				Put some comments here
+ */
